@@ -1,2 +1,1 @@
-# Natural-resources-analysis-climate-soil-and-vegetation-in-Google-Earth-Engine-Apps
-Natural resources analysis (climate, soil and vegetation) in Google Earth Engine Apps
+# Natural resources analysis (climate, soil and vegetation) using Google Earth Engine Apps
